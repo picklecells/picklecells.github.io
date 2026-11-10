@@ -23,7 +23,7 @@ repository               : "picklecells/picklecells.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Atasi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Microfluidics"
